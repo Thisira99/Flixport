@@ -1,17 +1,21 @@
-1)Navbar Section: This section includes a logo, a menu icon, and a navigation menu with links to different sections of the website. It also contains a dark mode toggle button.
+# Flixport
 
-2)Home Section: This section represents the main landing area of the website. It includes a social media links section, an image, a heading, a subheading, a description, and a button to download the CV.
+How to open my portfoliyo website(flixport)
 
-3)About Section: This section provides information about the web developer. It includes an image, a description, a button to toggle achievements, and contact information.
+1-As the first step you have to download all the files and save it in the xampp->htdocs->'file name'
 
-4)Skills Section: This section showcases the web developer's skills. It includes progress bars for HTML, CSS, JavaScript, and Figma.
+2-Then you have to open xampp or wamp server in your computer and start Apache and mysql servers.
 
-5)Services Section: This section highlights the services offered by the web developer, such as web development, backend development, UI/UX design, and app development.
+3-Then you have to go the browse and search localhost/phpmyadmin/ in searchbar
 
-6)Contact Section: This section includes a contact form with fields for name, email, and message.
+4-After create database and name it as a'my'
 
-7)Footer Section: This section displays social media icons and a copyright notice.
+5-Then inside the 'my' database create two tables.
+	1-contact- contact_form table (name,email,message)
+	2-registration-login table(firstname,lastname,email,password)
 
-8)JavaScript: The code includes JavaScript functions for toggling achievements, menu visibility, and dark mode.
+6.Finally go to the webbrowser and type it as a localhost/'file name'/index.php
 
-9)CSS: The code also includes CSS styles for the different sections and elements of the website.
+URL : https://thisira99.github.io/Flixport/
+
+Source : https://github.com/Thisira99/Flixport
